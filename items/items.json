@@ -26,13 +26,13 @@
   {
     "name": "1-CNY - Chinese New Year",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/GirlCNY.png",
     "codes": "5"
   },
   {
     "name": "1-BOO - theme of really spooky bird",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Owl.png",
     "codes": "6"
   },
   {
@@ -134,79 +134,79 @@
   {
     "name": "4-1 - Training Doctor's Train Ride Performance",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Miner.png",
     "codes": "23"
   },
   {
     "name": "4-1N - Rollerdisco Rumble",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Miner.png",
     "codes": "24"
   },
   {
     "name": "4-2 - Invisible",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Girl.png",
     "codes": "25"
   },
   {
     "name": "4-2N - Invisible (Night)",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Girl.png",
     "codes": "26"
   },
   {
     "name": "4-3 - Steinway",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Ian.png",
     "codes": "27"
   },
   {
     "name": "4-3N - Steinway Reprise",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Ian.png",
     "codes": "28"
   },
   {
     "name": "4-4 - Know You",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/HoodieBoy.png",
     "codes": "29"
   },
   {
     "name": "4-4N - Murmurs",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/HoodieBoy.png",
     "codes": "30"
   },
   {
     "name": "5-1 - Lucky Break",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Athlete.png",
     "codes": "31"
   },
   {
     "name": "5-1N - One Slip Too Late",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Athlete.png",
     "codes": "32"
   },
   {
     "name": "5-2 - Lo-fi Beats For Patients To Chill To",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Athlete.png",
     "codes": "33"
   },
   {
     "name": "5-2N - Unsustainable Inconsolable",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Athlete.png",
     "codes": "34"
   },
   {
     "name": "5-3 - Seventh-Inning Stretch",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Athlete.png",
     "codes": "35"
   },
   {
@@ -218,80 +218,80 @@
   {
     "name": "6-1 - Something To Tell You",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Boy.png",
     "codes": "38"
   },
   {
     "name": "6-2 - Welcome Back",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Mark.png",
     "codes": "39"
   },
   {
     "name": "7-1 - Blurred",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Mark.png",
     "codes": "40"
+  },
+  {
+    "name": "X-FTS - Fixations Towards the Stars",
+    "type": "toggle",
+    "img": "images/portraits/Saturday.png",
+    "codes": "41"
+  },
+  {
+    "name": "X-KOB - Kingdom of Balloons",
+    "type": "toggle",
+    "img": "images/portraits/Sophia.png",
+    "codes": "42"
+  },
+  {
+    "name": "X-WOT - Worn Out Tapes",
+    "type": "toggle",
+    "img": "images/portraits/Quaver.png",
+    "codes": "43"
+  },
+  {
+    "name": "X-MAT - Meet and Tweet",
+    "type": "toggle",
+    "img": "images/portraits/Wren.png",
+    "codes": "44"
+  },
+  {
+    "name": "MD-1 - Blackest Luxury Car",
+    "type": "toggle",
+    "img": "images/portraits/Rin.png",
+    "codes": "45"
+  },
+  {
+    "name": "MD-2 - tape/stop/night",
+    "type": "toggle",
+    "img": "images/portraits/Buro.png",
+    "codes": "46"
+  },
+  {
+    "name": "MD-3 - The 90's Decision",
+    "type": "toggle",
+    "img": "images/portraits/Marija.png",
+    "codes": "47"
+  },
+  {
+    "name": "X-0 - Helping Hands",
+    "type": "toggle",
+    "img": "images/portraits/HelpingHands.png",
+    "codes": "48"
+  },
+  {
+    "name": "X-1 - Art Exercise",
+    "type": "toggle",
+    "img": "images/portraits/Lucia.png",
+    "codes": "49"
   },
   {
     "name": "SVT Ward Key",
     "type": "toggle",
     "img": "images/a.png",
     "codes": "50"
-  },
-  {
-    "name": "X-FTS - Fixations Towards the Stars",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "41"
-  },
-  {
-    "name": "X-KOB - Kingdom of Balloons",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "42"
-  },
-  {
-    "name": "X-WOT - Worn Out Tapes",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "43"
-  },
-  {
-    "name": "X-MAT - Meet and Tweet",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "44"
-  },
-  {
-    "name": "MD-1 - Blackest Luxury Car",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "45"
-  },
-  {
-    "name": "MD-2 - tape/stop/night",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "46"
-  },
-  {
-    "name": "MD-3 - The 90's Decision",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "47"
-  },
-  {
-    "name": "X-0 - Helping Hands",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "48"
-  },
-  {
-    "name": "X-1 - Art Exercise",
-    "type": "toggle",
-    "img": "images/a.png",
-    "codes": "49"
   },
   {
     "name": "Train Key",
