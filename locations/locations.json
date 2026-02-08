@@ -1,8 +1,7 @@
 [
   {
     "name": "All",
-    "chest_unopened_img": "examples/sms-poptracker/images/items/Shine_Sprite.png",
-    "chest_opened_img": "examples/sms-poptracker/images/items/Shine_Sprite_Grey.png",
+    "chest_unopened_img": "images/RankF.png",
     "children": [
       {
         "name": "Main Ward",
@@ -23,17 +22,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -53,17 +55,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -83,17 +88,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -113,17 +121,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -143,17 +154,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -173,17 +187,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -226,17 +243,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -256,17 +276,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -286,17 +309,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -316,17 +342,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -346,17 +375,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -376,17 +408,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           }
@@ -414,17 +449,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -444,17 +482,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -474,17 +515,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -504,17 +548,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -534,17 +581,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -564,17 +614,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -594,17 +647,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -624,17 +680,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -654,17 +713,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           },
@@ -684,17 +746,20 @@
               {
                 "name": "B Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankB.png"
               },
               {
                 "name": "A Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankA.png"
               },
               {
                 "name": "S Rank",
                 "clear_as_group": false,
-                "item_count": 1
+                "item_count": 1,
+                "chest_opened_img": "images/RankS.png"
               }
             ]
           }
