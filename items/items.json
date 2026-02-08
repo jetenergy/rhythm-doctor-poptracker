@@ -296,37 +296,37 @@
   {
     "name": "SVT Ward Key",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/wards/KeySVT.png",
     "codes": "50"
   },
   {
     "name": "Train Key",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/wards/KeyTRN.png",
     "codes": "51"
   },
   {
     "name": "Physiotherapy Ward Key",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/wards/KeyPHY.png",
     "codes": "52"
   },
   {
     "name": "Basement Key",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/wards/KeyBAS.png",
     "codes": "53"
   },
   {
     "name": "Garden Room Key",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/wards/KeyGAR.png",
     "codes": "54"
   },
   {
     "name": "Records Room Key",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/wards/KeyREC.png",
     "codes": "55"
   }
 ]
