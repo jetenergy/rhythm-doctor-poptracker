@@ -1,0 +1,13 @@
+{
+  "records": {
+    "type": "container",
+    "content": [
+      {
+        "type": "map",
+        "maps": [
+          "Records Room"
+        ]
+      }
+    ]
+  }
+}

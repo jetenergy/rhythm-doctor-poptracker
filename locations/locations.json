@@ -766,6 +766,673 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Train",
+        "access_rules": [
+          "51"
+        ],
+        "children": [
+          {
+            "name": "4-1 - Training Doctor's Train Ride Performance",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 100,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "23"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "4-1N - Rollerdisco Rumble",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 100,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "24"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "4-2 - Invisible",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 200,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "25"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "4-2N - Invisible (Night)",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 200,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "26"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "4-3 - Steinway",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 300,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "27"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "4-3N - Steinway Reprise",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 300,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "28"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "4-4 - Know You",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 400,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "29"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "4-4N - Murmurs",
+            "map_locations": [
+              {
+                "map": "Train",
+                "x": 400,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "30"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Physiotherapy Ward",
+        "access_rules": [
+          "52"
+        ],
+        "children": [
+          {
+            "name": "5-1 - Lucky Break",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 100,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "31"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "5-1N - One Slip Too Late",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 100,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "32"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "5-2 - Lo-fi Beats For Patients To Chill To",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 200,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "33"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "5-2N - Unsustainable Inconsolable",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 200,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "34"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "5-3 - Seventh-Inning Stretch",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 300,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "35"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "5-3N - Corazones Viejos",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 300,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "36"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Records Room",
+        "access_rules": [
+          "55"
+        ],
+        "children": [
+          {
+            "name": "6-1 - Something To Tell You",
+            "map_locations": [
+              {
+                "map": "Records Room",
+                "x": 100,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "38"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "6-2 - Welcome Back",
+            "map_locations": [
+              {
+                "map": "Records Room",
+                "x": 200,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "39"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "7-1 - Blurred",
+            "map_locations": [
+              {
+                "map": "Records Room",
+                "x": 300,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "40"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Basement",
+        "access_rules": [
+          "53"
+        ],
+        "children": [
+          {
+            "name": "BASEMENT",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 100,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "13"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Garden Room",
+        "access_rules": [
+          "54"
+        ],
+        "children": [
+          {
+            "name": "GARDEN",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 100,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "13"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          }
+        ]
       }
     ]
   }

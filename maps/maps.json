@@ -10,5 +10,23 @@
     "location_size": 24,
     "location_border_thickness": 2,
     "img": "images/maps/example.png"
+  },
+  {
+    "name": "Train",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/example.png"
+  },
+  {
+    "name": "Physiotherapy Ward",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/example.png"
+  },
+  {
+    "name": "Records Room",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/maps/example.png"
   }
 ]

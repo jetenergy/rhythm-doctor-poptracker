@@ -1,0 +1,13 @@
+{
+  "physiotherapy": {
+    "type": "container",
+    "content": [
+      {
+        "type": "map",
+        "maps": [
+          "Physiotherapy Ward"
+        ]
+      }
+    ]
+  }
+}

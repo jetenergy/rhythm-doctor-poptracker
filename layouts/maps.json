@@ -22,6 +22,33 @@
               "style": "wrap",
               "key": "svt"
             }
+          },
+          {
+            "title": "Train",
+            "content": {
+              "type": "layout",
+              "orientation": "horizontal",
+              "style": "wrap",
+              "key": "train"
+            }
+          },
+          {
+            "title": "Physiotherapy Ward",
+            "content": {
+              "type": "layout",
+              "orientation": "horizontal",
+              "style": "wrap",
+              "key": "physiotherapy"
+            }
+          },
+          {
+            "title": "Records Room",
+            "content": {
+              "type": "layout",
+              "orientation": "horizontal",
+              "style": "wrap",
+              "key": "records"
+            }
           }
         ]
       }

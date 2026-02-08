@@ -24,7 +24,7 @@
       },
       {
         "type": "group",
-        "header": "Main Ward level unlocks",
+        "header": "Main Ward",
         "content": {
           "type": "itemgrid",
           "h_alignment": "center",
@@ -56,7 +56,7 @@
       },
       {
         "type": "group",
-        "header": "SVT Ward level unlocks",
+        "header": "SVT Ward",
         "content": {
           "type": "itemgrid",
           "h_alignment": "center",
@@ -77,6 +77,63 @@
             ],
             [
               "21"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Train",
+        "content": {
+          "type": "itemgrid",
+          "h_alignment": "center",
+          "rows": [
+            [
+              "23",
+              "25",
+              "27",
+              "29"
+            ],
+            [
+              "24",
+              "26",
+              "28",
+              "30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Physiotherapy Ward",
+        "content": {
+          "type": "itemgrid",
+          "h_alignment": "center",
+          "rows": [
+            [
+              "31",
+              "33",
+              "35"
+            ],
+            [
+              "32",
+              "34",
+              "36"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Records Room",
+        "content": {
+          "type": "itemgrid",
+          "h_alignment": "center",
+          "rows": [
+            [
+              "38",
+              "39",
+              "40"
             ]
           ]
         }
