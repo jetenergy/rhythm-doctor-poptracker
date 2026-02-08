@@ -2,25 +2,25 @@
   {
     "name": "1-1 - Samurai Techno",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Samurai.png",
     "codes": "1"
   },
   {
     "name": "1-1N - Samurai Dubstep",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Samurai.png",
     "codes": "2"
   },
   {
     "name": "1-2 - Intimate",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Boy.png",
     "codes": "3"
   },
   {
     "name": "1-2N - Intimate (Night)",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Girl.png",
     "codes": "4"
   },
   {
@@ -38,91 +38,91 @@
   {
     "name": "3-1 - Sleepy Garden",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Cockatiel.png",
     "codes": "7"
   },
   {
     "name": "3-1N - Lounge",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Owl.png",
     "codes": "8"
   },
   {
     "name": "3-2 - Classy",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Politician.png",
     "codes": "9"
   },
   {
     "name": "3-2N - Classy (Night)",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Politician.png",
     "codes": "10"
   },
   {
     "name": "3-3 - Distant Duet",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/MrsStevenson.png",
     "codes": "11"
   },
   {
     "name": "3-3N - Distant Duet (Night)",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/MrsStevenson.png",
     "codes": "12"
   },
   {
     "name": "2-1 - Lo-fi Hip-Hop Beats To Treat Patients To",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/HoodieBoy.png",
     "codes": "13"
   },
   {
     "name": "2-1N - wish i could care less",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/HoodieBoy.png",
     "codes": "14"
   },
   {
     "name": "2-2 - Supraventricular Tachycardia",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/HoodieBoy.png",
     "codes": "15"
   },
   {
     "name": "2-2N - Unreachable",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Samurai.png",
     "codes": "16"
   },
   {
     "name": "2-3 - Puff Piece",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/SmokinBarista.png",
     "codes": "17"
   },
   {
     "name": "2-3N - Bomb-Sniffing Pomeranian",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/SmokinBarista.png",
     "codes": "18"
   },
   {
     "name": "2-4 - Song of the Sea",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/SmokinBarista.png",
     "codes": "19"
   },
   {
     "name": "2-4N - Song of the Sea (Night)",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/SmokinBarista.png",
     "codes": "20"
   },
   {
     "name": "2-B1 - Beans Hopper",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/Beans.png",
     "codes": "21"
   },
   {
