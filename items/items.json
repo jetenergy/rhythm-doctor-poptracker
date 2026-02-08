@@ -128,7 +128,7 @@
   {
     "name": "2-XN - Bitter Times",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/HoodieBoy.png",
     "codes": "22"
   },
   {
@@ -212,8 +212,14 @@
   {
     "name": "5-3N - Corazones Viejos",
     "type": "toggle",
-    "img": "images/a.png",
+    "img": "images/portraits/MrsStevenson.png",
     "codes": "36"
+  },
+  {
+    "name": "5-B1 - Rhythm Weightlifter",
+    "type": "toggle",
+    "img": "images/portraits/RWL.png",
+    "codes": "37"
   },
   {
     "name": "6-1 - Something To Tell You",
@@ -296,7 +302,7 @@
   {
     "name": "Train Key",
     "type": "toggle",
-    "img": "images/b.png",
+    "img": "images/a.png",
     "codes": "51"
   },
   {
@@ -308,7 +314,7 @@
   {
     "name": "Basement Key",
     "type": "toggle",
-    "img": "images/b.png",
+    "img": "images/a.png",
     "codes": "53"
   },
   {
@@ -320,7 +326,7 @@
   {
     "name": "Records Room Key",
     "type": "toggle",
-    "img": "images/b.png",
+    "img": "images/a.png",
     "codes": "55"
   }
 ]
