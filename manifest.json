@@ -1,0 +1,16 @@
+{
+  "name": "Rhythm Doctor",
+  "game_name": "Rhythm Doctor",
+  "platform": "pc",
+  "package_version": "0.1.0",
+  "package_uid": "rhythm-doctor",
+  "author": "jetenergy",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

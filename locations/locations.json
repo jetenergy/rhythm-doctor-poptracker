@@ -1,0 +1,705 @@
+[
+  {
+    "name": "All",
+    "chest_unopened_img": "examples/sms-poptracker/images/items/Shine_Sprite.png",
+    "chest_opened_img": "examples/sms-poptracker/images/items/Shine_Sprite_Grey.png",
+    "children": [
+      {
+        "name": "Main Ward",
+        "children": [
+          {
+            "name": "1-1 - Samurai Techno",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 100,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "1"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "1-1N - Samurai Dubstep",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 100,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "2"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "1-2 - Intimate",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 200,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "3"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "1-2N - Intimate (Night)",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 200,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "4"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "1-CNY - Chinese New Year",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 300,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "5"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "1-BOO - theme of really spooky bird",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 400,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "6"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "1-X - Battleworn Insomniac",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 500,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "$CheckBossRequirement|1"
+            ],
+            "sections": [
+              {
+                "name": "Clear",
+                "item_count": 1
+              },
+              {
+                "name": "Perfect Clear",
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "3-1 - Sleepy Garden",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 100,
+                "y": 300
+              }
+            ],
+            "access_rules": [
+              "7"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "3-1N - Lounge",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 100,
+                "y": 250
+              }
+            ],
+            "access_rules": [
+              "8"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "3-2 - Classy",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 200,
+                "y": 300
+              }
+            ],
+            "access_rules": [
+              "9"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "3-2N - Classy (Night)",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 200,
+                "y": 250
+              }
+            ],
+            "access_rules": [
+              "10"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "3-3 - Distant Duet",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 300,
+                "y": 300
+              }
+            ],
+            "access_rules": [
+              "11"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "3-3N - Distant Duet (Night)",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 300,
+                "y": 250
+              }
+            ],
+            "access_rules": [
+              "12"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SVT Ward",
+        "access_rules": [
+          "50"
+        ],
+        "children": [
+          {
+            "name": "2-1 - Lo-fi Hip-Hop Beats To Treat Patients To",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 100,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "13"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-1N - wish i could care less",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 100,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "14"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-2 - Supraventricular Tachycardia",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 200,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "15"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-2N - Unreachable",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 200,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "16"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-3 - Puff Piece",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 300,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "17"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-3N - Bomb-Sniffing Pomeranian",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 300,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "18"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-4 - Song of the Sea",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 400,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "19"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-4N - Song of the Sea (Night)",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 400,
+                "y": 50
+              }
+            ],
+            "access_rules": [
+              "20"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-B1 - Beans Hopper",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 100,
+                "y": 200
+              }
+            ],
+            "access_rules": [
+              "21"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          },
+          {
+            "name": "2-XN - Bitter Times",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 500,
+                "y": 100
+              }
+            ],
+            "access_rules": [
+              "22"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "A Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              },
+              {
+                "name": "S Rank",
+                "clear_as_group": false,
+                "item_count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

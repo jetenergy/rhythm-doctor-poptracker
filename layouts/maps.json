@@ -1,0 +1,30 @@
+{
+  "layout_maps": {
+    "type": "container",
+    "content": [
+      {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "Main Ward",
+            "content": {
+              "type": "layout",
+              "orientation": "horizontal",
+              "style": "wrap",
+              "key": "main"
+            }
+          },
+          {
+            "title": "SVT Ward",
+            "content": {
+              "type": "layout",
+              "orientation": "horizontal",
+              "style": "wrap",
+              "key": "svt"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
