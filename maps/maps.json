@@ -1,9 +1,9 @@
 [
   {
     "name": "Main Ward",
-    "location_size": 24,
+    "location_size": 128,
     "location_border_thickness": 2,
-    "img": "images/maps/example.png"
+    "img": "images/maps/main-ward-small.png"
   },
   {
     "name": "SVT Ward",

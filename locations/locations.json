@@ -11,8 +11,8 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 100,
-                "y": 100
+                "x": 330,
+                "y": 1346
               }
             ],
             "access_rules": [
@@ -44,8 +44,9 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 100,
-                "y": 50
+                "x": 330,
+                "y": 1146,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -77,8 +78,8 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 200,
-                "y": 100
+                "x": 880,
+                "y": 1346
               }
             ],
             "access_rules": [
@@ -110,8 +111,9 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 200,
-                "y": 50
+                "x": 880,
+                "y": 1146,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -143,8 +145,8 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 300,
-                "y": 100
+                "x": 1480,
+                "y": 523
               }
             ],
             "access_rules": [
@@ -176,8 +178,8 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 400,
-                "y": 100
+                "x": 2046,
+                "y": 523
               }
             ],
             "access_rules": [
@@ -209,8 +211,9 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 500,
-                "y": 100
+                "x": 1437,
+                "y": 1346,
+                "shape": "trapezoid"
               }
             ],
             "access_rules": [
@@ -230,12 +233,38 @@
             ]
           },
           {
+            "name": "4-X - Super Battleworn Insomniac",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 1437,
+                "y": 1146,
+                "shape": "trapezoid"
+              }
+            ],
+            "access_rules": [
+              "$CheckBossRequirement|4"
+            ],
+            "sections": [
+              {
+                "name": "Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Perfect Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+              }
+            ]
+          },
+          {
             "name": "3-1 - Sleepy Garden",
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 100,
-                "y": 300
+                "x": 2000,
+                "y": 1346
               }
             ],
             "access_rules": [
@@ -267,8 +296,9 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 100,
-                "y": 250
+                "x": 2000,
+                "y": 1146,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -300,8 +330,8 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 200,
-                "y": 300
+                "x": 2590,
+                "y": 1346
               }
             ],
             "access_rules": [
@@ -333,8 +363,9 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 200,
-                "y": 250
+                "x": 2590,
+                "y": 1146,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -366,8 +397,8 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 300,
-                "y": 300
+                "x": 3090,
+                "y": 1346
               }
             ],
             "access_rules": [
@@ -399,8 +430,9 @@
             "map_locations": [
               {
                 "map": "Main Ward",
-                "x": 300,
-                "y": 250
+                "x": 3090,
+                "y": 1146,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -424,6 +456,58 @@
                 "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "3-X - One Shift More",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 2530,
+                "y": 2220,
+                "shape": "trapezoid"
+              }
+            ],
+            "access_rules": [
+              "$CheckBossRequirement|3"
+            ],
+            "sections": [
+              {
+                "name": "Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Perfect Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+              }
+            ]
+          },
+          {
+            "name": "3-DOG - Rhythm Dogtor",
+            "map_locations": [
+              {
+                "map": "Main Ward",
+                "x": 2530,
+                "y": 2020,
+                "shape": "trapezoid"
+              }
+            ],
+            "access_rules": [
+              "$CheckBossRequirement|3"
+            ],
+            "sections": [
+              {
+                "name": "Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Perfect Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
               }
             ]
           }
