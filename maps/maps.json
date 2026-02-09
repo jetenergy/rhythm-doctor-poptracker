@@ -25,8 +25,8 @@
   },
   {
     "name": "Records Room",
-    "location_size": 24,
+    "location_size": 128,
     "location_border_thickness": 2,
-    "img": "images/maps/example.png"
+    "img": "images/maps/records-room-abandoned-ward.png"
   }
 ]
