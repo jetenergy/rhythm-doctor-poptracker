@@ -7,19 +7,19 @@ local slotData = {
     act_5_boss_unlock_requirement = 3,
     act_6_boss_unlock_requirement = 2,
     act_7_boss_unlock_requirement = 2,
+    -- TODO: figure out if we want to check this specifically instead of just "are levels unlocked"
     boss_unlock_requirement = 0,
-    end_goal = 0,
 }
 
--- Level items per chapter
+-- levels required for act bosses
 local levelItems = {
     ["1"] = {"1", "2", "3", "4", "5", "6"},
-    ["2"] = {"13", "14", "15", "16", "17", "18", "19", "20"},
+    ["2"] = {"13", "14", "15", "16", "17", "18", "19", "20", "21"},
     ["3"] = {"7", "8", "9", "10", "11", "12"},
-    ["4"] = {},
-    ["5"] = {},
-    ["6"] = {},
-    ["7"] = {},
+    ["4"] = {"23", "24", "25", "26", "27", "28", "29", "30"},
+    ["5"] = {"31", "32", "33", "34", "35", "36"},
+    ["6"] = {"38", "39"},
+    ["7"] = {"22", "40"},
 }
 
 function string.trim(str)

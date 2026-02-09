@@ -680,16 +680,6 @@
             ],
             "sections": [
               {
-                "name": "B Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankB.png"
-              },
-              {
-                "name": "A Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankA.png"
-              },
-              {
                 "name": "S Rank",
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
@@ -710,16 +700,6 @@
               "20"
             ],
             "sections": [
-              {
-                "name": "B Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankB.png"
-              },
-              {
-                "name": "A Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankA.png"
-              },
               {
                 "name": "S Rank",
                 "item_count": 1,
@@ -1209,16 +1189,6 @@
               "35"
             ],
             "sections": [
-              {
-                "name": "B Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankB.png"
-              },
-              {
-                "name": "A Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankA.png"
-              },
               {
                 "name": "S Rank",
                 "item_count": 1,
