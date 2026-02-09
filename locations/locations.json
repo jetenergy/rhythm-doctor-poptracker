@@ -1079,8 +1079,8 @@
             "map_locations": [
               {
                 "map": "Physiotherapy Ward",
-                "x": 100,
-                "y": 100
+                "x": 454,
+                "y": 635
               }
             ],
             "access_rules": [
@@ -1109,8 +1109,9 @@
             "map_locations": [
               {
                 "map": "Physiotherapy Ward",
-                "x": 100,
-                "y": 50
+                "x": 454,
+                "y": 435,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -1139,8 +1140,8 @@
             "map_locations": [
               {
                 "map": "Physiotherapy Ward",
-                "x": 200,
-                "y": 100
+                "x": 2260,
+                "y": 635
               }
             ],
             "access_rules": [
@@ -1169,8 +1170,9 @@
             "map_locations": [
               {
                 "map": "Physiotherapy Ward",
-                "x": 200,
-                "y": 50
+                "x": 2260,
+                "y": 435,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -1199,8 +1201,8 @@
             "map_locations": [
               {
                 "map": "Physiotherapy Ward",
-                "x": 300,
-                "y": 100
+                "x": 720,
+                "y": 1400
               }
             ],
             "access_rules": [
@@ -1229,8 +1231,9 @@
             "map_locations": [
               {
                 "map": "Physiotherapy Ward",
-                "x": 300,
-                "y": 50
+                "x": 720,
+                "y": 1200,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -1251,6 +1254,101 @@
                 "name": "S Rank",
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "5-B1 - Rhythm Weightlifter",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 1500,
+                "y": 1400
+              }
+            ],
+            "access_rules": [
+              "37"
+            ],
+            "sections": [
+              {
+                "name": "Stage 1 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 2 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 3 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 4 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 5 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 6 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 7 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 8 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 9 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Stage 10 Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              }
+            ]
+          },
+          {
+            "name": "5-X - Dreams Don't Stop",
+            "map_locations": [
+              {
+                "map": "Physiotherapy Ward",
+                "x": 2500,
+                "y": 1400
+              }
+            ],
+            "access_rules": [
+              "$CheckBossRequirement|5"
+            ],
+            "sections": [
+              {
+                "name": "Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Complete+ Without Checkpoints",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossCompletePlus.png"
+              },
+              {
+                "name": "Perfect Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
               }
             ]
           }
