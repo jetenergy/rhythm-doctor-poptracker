@@ -13,9 +13,9 @@
   },
   {
     "name": "Train",
-    "location_size": 24,
+    "location_size": 128,
     "location_border_thickness": 2,
-    "img": "images/maps/example.png"
+    "img": "images/maps/train.png"
   },
   {
     "name": "Physiotherapy Ward",

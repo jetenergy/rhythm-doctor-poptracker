@@ -827,8 +827,8 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 100,
-                "y": 100
+                "x": 1720,
+                "y": 740
               }
             ],
             "access_rules": [
@@ -857,8 +857,9 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 100,
-                "y": 50
+                "x": 1720,
+                "y": 540,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -887,8 +888,8 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 200,
-                "y": 100
+                "x": 2204,
+                "y": 740
               }
             ],
             "access_rules": [
@@ -917,8 +918,9 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 200,
-                "y": 50
+                "x": 2204,
+                "y": 540,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -947,8 +949,8 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 300,
-                "y": 100
+                "x": 2692,
+                "y": 740
               }
             ],
             "access_rules": [
@@ -977,8 +979,9 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 300,
-                "y": 50
+                "x": 2692,
+                "y": 540,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -1007,8 +1010,8 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 400,
-                "y": 100
+                "x": 3179,
+                "y": 740
               }
             ],
             "access_rules": [
@@ -1037,8 +1040,9 @@
             "map_locations": [
               {
                 "map": "Train",
-                "x": 400,
-                "y": 50
+                "x": 3179,
+                "y": 540,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
