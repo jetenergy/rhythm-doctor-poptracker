@@ -15,6 +15,7 @@ Tracker:AddLayouts("layouts/maps/svt.json")
 Tracker:AddLayouts("layouts/maps/train.json")
 Tracker:AddLayouts("layouts/maps/physiotherapy.json")
 Tracker:AddLayouts("layouts/maps/records.json")
+Tracker:AddLayouts("layouts/maps/bonus.json")
 
 
 if Archipelago then

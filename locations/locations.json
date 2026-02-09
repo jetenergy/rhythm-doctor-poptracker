@@ -1298,7 +1298,8 @@
               {
                 "map": "Physiotherapy Ward",
                 "x": 2500,
-                "y": 1400
+                "y": 1400,
+                "shape": "trapezoid"
               }
             ],
             "access_rules": [
@@ -1527,16 +1528,196 @@
         ],
         "children": [
           {
-            "name": "BASEMENT",
+            "name": "X-FTS - Fixations Towards the Stars",
             "map_locations": [
               {
-                "map": "Main Ward",
-                "x": 100,
-                "y": 100
+                "map": "Basement / Garden",
+                "x": 1735,
+                "y": 1480
               }
             ],
             "access_rules": [
-              "13"
+              "41"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "X-KOB - Kingdom of Balloons",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 2160,
+                "y": 1480
+              }
+            ],
+            "access_rules": [
+              "42"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "X-WOT - Worn Out Tapes",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 2555,
+                "y": 1480
+              }
+            ],
+            "access_rules": [
+              "43"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "X-MAT - Meet and Tweet",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 2980,
+                "y": 1480
+              }
+            ],
+            "access_rules": [
+              "44"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "MD-1 - Blackest Luxury Car",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 2650,
+                "y": 600
+              }
+            ],
+            "access_rules": [
+              "45"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "MD-2 - tape/stop/night",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 3120,
+                "y": 600
+              }
+            ],
+            "access_rules": [
+              "46"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "MD-3 - The 90's Decision",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 3570,
+                "y": 600
+              }
+            ],
+            "access_rules": [
+              "47"
             ],
             "sections": [
               {
@@ -1565,16 +1746,46 @@
         ],
         "children": [
           {
-            "name": "GARDEN",
+            "name": "X-1 - Art Exercise",
             "map_locations": [
               {
-                "map": "Main Ward",
-                "x": 200,
-                "y": 100
+                "map": "Basement / Garden",
+                "x": 590,
+                "y": 600
               }
             ],
             "access_rules": [
-              "13"
+              "49"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "X-0 - Helping Hands",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 1460,
+                "y": 600
+              }
+            ],
+            "access_rules": [
+              "48"
             ],
             "sections": [
               {

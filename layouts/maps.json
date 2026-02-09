@@ -49,6 +49,15 @@
               "style": "wrap",
               "key": "records"
             }
+          },
+          {
+            "title": "Basement / Garden",
+            "content": {
+              "type": "layout",
+              "orientation": "horizontal",
+              "style": "wrap",
+              "key": "bonus"
+            }
           }
         ]
       }

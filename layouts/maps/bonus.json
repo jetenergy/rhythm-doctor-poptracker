@@ -1,0 +1,13 @@
+{
+  "bonus": {
+    "type": "container",
+    "content": [
+      {
+        "type": "map",
+        "maps": [
+          "Basement / Garden"
+        ]
+      }
+    ]
+  }
+}
