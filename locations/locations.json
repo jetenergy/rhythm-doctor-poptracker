@@ -21,19 +21,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -55,19 +52,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -88,19 +82,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -122,19 +113,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -155,19 +143,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -188,19 +173,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -273,19 +255,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -307,19 +286,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -340,19 +316,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -374,19 +347,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -407,19 +377,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -441,19 +408,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -492,7 +456,7 @@
                 "map": "Main Ward",
                 "x": 2530,
                 "y": 2020,
-                "shape": "trapezoid"
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -524,8 +488,8 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 100,
-                "y": 100
+                "x": 800,
+                "y": 580
               }
             ],
             "access_rules": [
@@ -534,19 +498,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -557,8 +518,9 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 100,
-                "y": 50
+                "x": 800,
+                "y": 380,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -567,19 +529,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -590,8 +549,8 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 200,
-                "y": 100
+                "x": 1269,
+                "y": 580
               }
             ],
             "access_rules": [
@@ -600,19 +559,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -623,8 +579,9 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 200,
-                "y": 50
+                "x": 1269,
+                "y": 380,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -633,19 +590,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -656,8 +610,8 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 300,
-                "y": 100
+                "x": 2684,
+                "y": 580
               }
             ],
             "access_rules": [
@@ -666,19 +620,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -689,8 +640,9 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 300,
-                "y": 50
+                "x": 2684,
+                "y": 380,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -699,19 +651,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -722,8 +671,8 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 400,
-                "y": 100
+                "x": 2182,
+                "y": 580
               }
             ],
             "access_rules": [
@@ -732,19 +681,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -755,8 +701,9 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 400,
-                "y": 50
+                "x": 2182,
+                "y": 380,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -765,19 +712,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -788,8 +732,8 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 100,
-                "y": 200
+                "x": 3190,
+                "y": 580
               }
             ],
             "access_rules": [
@@ -798,21 +742,44 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "2-X - All The Times",
+            "map_locations": [
+              {
+                "map": "SVT Ward",
+                "x": 1727,
+                "y": 580,
+                "shape": "trapezoid"
+              }
+            ],
+            "access_rules": [
+              "$CheckBossRequirement|2"
+            ],
+            "sections": [
+              {
+                "name": "Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossComplete.png"
+              },
+              {
+                "name": "Perfect Clear",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
               }
             ]
           },
@@ -821,8 +788,9 @@
             "map_locations": [
               {
                 "map": "SVT Ward",
-                "x": 500,
-                "y": 100
+                "x": 1727,
+                "y": 380,
+                "shape": "diamond"
               }
             ],
             "access_rules": [
@@ -830,22 +798,19 @@
             ],
             "sections": [
               {
-                "name": "B Rank",
-                "clear_as_group": false,
+                "name": "Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankB.png"
+                "chest_opened_img": "images/ranks/BossComplete.png"
               },
               {
-                "name": "A Rank",
-                "clear_as_group": false,
+                "name": "Complete+ Without Checkpoints",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankA.png"
+                "chest_opened_img": "images/ranks/BossCompletePlus.png"
               },
               {
-                "name": "S Rank",
-                "clear_as_group": false,
+                "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
               }
             ]
           }
@@ -872,19 +837,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -905,19 +867,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -938,19 +897,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -971,19 +927,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1004,19 +957,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1037,19 +987,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1070,19 +1017,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1103,19 +1047,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1144,19 +1085,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1177,19 +1115,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1210,19 +1145,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1243,19 +1175,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1276,19 +1205,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1309,19 +1235,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1350,19 +1273,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1383,19 +1303,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1416,19 +1333,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1446,7 +1360,7 @@
             "name": "BASEMENT",
             "map_locations": [
               {
-                "map": "SVT Ward",
+                "map": "Main Ward",
                 "x": 100,
                 "y": 100
               }
@@ -1457,19 +1371,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
@@ -1487,8 +1398,8 @@
             "name": "GARDEN",
             "map_locations": [
               {
-                "map": "SVT Ward",
-                "x": 100,
+                "map": "Main Ward",
+                "x": 200,
                 "y": 100
               }
             ],
@@ -1498,19 +1409,16 @@
             "sections": [
               {
                 "name": "B Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankB.png"
               },
               {
                 "name": "A Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankA.png"
               },
               {
                 "name": "S Rank",
-                "clear_as_group": false,
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png"
               }
