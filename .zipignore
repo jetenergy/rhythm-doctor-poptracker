@@ -1,0 +1,6 @@
+.git/*
+.idea/*
+definition/*
+
+.gitignore
+.luarc.json

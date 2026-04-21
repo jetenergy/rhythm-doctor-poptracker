@@ -1528,6 +1528,66 @@
         ],
         "children": [
           {
+            "name": "X-1 - Art Exercise",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 870,
+                "y": 1480
+              }
+            ],
+            "access_rules": [
+              "49"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
+            "name": "X-PBC - público cautivo",
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 1300,
+                "y": 1480
+              }
+            ],
+            "access_rules": [
+              "41"
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png"
+              }
+            ]
+          },
+          {
             "name": "X-FTS - Fixations Towards the Stars",
             "map_locations": [
               {
@@ -1745,36 +1805,6 @@
           "54"
         ],
         "children": [
-          {
-            "name": "X-1 - Art Exercise",
-            "map_locations": [
-              {
-                "map": "Basement / Garden",
-                "x": 590,
-                "y": 600
-              }
-            ],
-            "access_rules": [
-              "49"
-            ],
-            "sections": [
-              {
-                "name": "B Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankB.png"
-              },
-              {
-                "name": "A Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankA.png"
-              },
-              {
-                "name": "S Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
-              }
-            ]
-          },
           {
             "name": "X-0 - Helping Hands",
             "map_locations": [

@@ -240,6 +240,12 @@
     "codes": "40"
   },
   {
+    "name": "X-PBC - público cautivo",
+    "type": "toggle",
+    "img": "images/portraits/Wren.png",
+    "codes": "67"
+  },
+  {
     "name": "X-FTS - Fixations Towards the Stars",
     "type": "toggle",
     "img": "images/portraits/Saturday.png",
