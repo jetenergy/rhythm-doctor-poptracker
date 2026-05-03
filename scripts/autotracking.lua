@@ -1,15 +1,5 @@
-
-local slotData = {
-    act_1_boss_unlock_requirement = 2,
-    act_2_boss_unlock_requirement = 4,
-    act_3_boss_unlock_requirement = 3,
-    act_4_boss_unlock_requirement = 4,
-    act_5_boss_unlock_requirement = 3,
-    act_6_boss_unlock_requirement = 2,
-    act_7_boss_unlock_requirement = 2,
-    -- TODO: figure out if we want to check this specifically instead of just "are levels unlocked"
-    boss_unlock_requirement = 0,
-}
+-- TODO: reset all items on AP connect?
+-- TODO: make boss's blue when available but levels not scored
 
 -- levels required for act bosses
 local levelItems = {
@@ -20,6 +10,16 @@ local levelItems = {
     ["5"] = {"31", "32", "33", "34", "35", "36"},
     ["6"] = {"38", "39"},
     ["7"] = {"22", "40"},
+}
+
+local reqKeyItemMap = {
+    act_1_boss_unlock_requirement = "act1req",
+    act_2_boss_unlock_requirement = "act2req",
+    act_3_boss_unlock_requirement = "act3req",
+    act_4_boss_unlock_requirement = "act4req",
+    act_5_boss_unlock_requirement = "act5req",
+    act_6_boss_unlock_requirement = "act6req",
+    act_7_boss_unlock_requirement = "act7req",
 }
 
 function string.trim(str)
@@ -57,15 +57,33 @@ end
 local onClear = function(data)
     for key, value in pairs(data) do
         print("RD: slot data: key: " .. key .. "; value: " .. tostring(value))
-        if slotData[key] ~= nil then
-            slotData[key] = value
+
+        if key == 'end_goal' then
+            local goalSelector = Tracker:FindObjectForCode('end_goal')
+            --@cast goalSelector LocationSection
+            if goalSelector ~= nil then
+                -- 0 = Helping Hands, 1 = All B Rank, 2 = All A Rank, 3 = All S Rank
+                goalSelector.CurrentStage = value
+            end
+
         end
+
+        if reqKeyItemMap[key] ~= nil then
+            local reqObject = Tracker:FindObjectForCode(reqKeyItemMap[key])
+            --@cast reqObject LocationSection
+            if reqObject ~= nil then
+                reqObject.AcquiredCount = value
+            end
+        end
+
+        -- TODO: double check perfect_rank_locations -> perfect_rank when that's implemented
     end
+
 end
 
 ---@param chapter string
 function CheckBossRequirement(chapter)
-    local requirement = slotData["act_" .. chapter .. "_boss_unlock_requirement"]
+    local requirement = Tracker:ProviderCountForCode("act" .. chapter .. "req")
 
     local levelsUnlocked = 0
     for _, item in pairs(levelItems[chapter]) do
@@ -73,11 +91,20 @@ function CheckBossRequirement(chapter)
         if count == 1 then
             levelsUnlocked = levelsUnlocked + 1
         end
-
     end
 
     return levelsUnlocked >= requirement;
 
+end
+
+function HasAllBossesUnlocked()
+    return CheckBossRequirement("1") and
+        CheckBossRequirement("2") and
+        CheckBossRequirement("3") and
+        CheckBossRequirement("4") and
+        CheckBossRequirement("5") and
+        CheckBossRequirement("6") and
+        CheckBossRequirement("7")
 end
 
 Archipelago:AddClearHandler("Clear", onClear)

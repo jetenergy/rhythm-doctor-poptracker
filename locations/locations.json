@@ -32,7 +32,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -63,7 +66,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -93,7 +99,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -124,7 +133,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -154,7 +166,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -184,7 +199,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -210,12 +228,15 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
           {
-            "name": "4-X - Super Battleworn Insomniac",
+            "name": "1-XN - Super Battleworn Insomniac",
             "map_locations": [
               {
                 "map": "Main Ward",
@@ -236,7 +257,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -266,7 +290,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -297,7 +324,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -327,7 +357,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -358,7 +391,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -388,7 +424,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -419,7 +458,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -445,7 +487,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -471,7 +516,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
@@ -509,7 +557,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -540,7 +591,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -570,7 +624,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -601,7 +658,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -631,7 +691,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -662,7 +725,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -682,7 +748,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -703,7 +772,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -733,7 +805,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -759,7 +834,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -790,7 +868,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
@@ -828,7 +909,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -859,7 +943,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -889,7 +976,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -920,7 +1010,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -950,7 +1043,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -981,7 +1077,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1011,7 +1110,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1042,7 +1144,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
@@ -1080,7 +1185,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1111,7 +1219,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1141,7 +1252,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1172,7 +1286,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1192,7 +1309,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1223,7 +1343,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1319,7 +1442,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
@@ -1357,7 +1483,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1387,7 +1516,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1418,7 +1550,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1448,7 +1583,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
@@ -1484,7 +1622,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1515,7 +1656,10 @@
               {
                 "name": "Perfect Clear",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/BossCompletePerfect.png"
+                "chest_opened_img": "images/ranks/BossCompletePerfect.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
@@ -1528,36 +1672,6 @@
         ],
         "children": [
           {
-            "name": "X-1 - Art Exercise",
-            "map_locations": [
-              {
-                "map": "Basement / Garden",
-                "x": 870,
-                "y": 1480
-              }
-            ],
-            "access_rules": [
-              "49"
-            ],
-            "sections": [
-              {
-                "name": "B Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankB.png"
-              },
-              {
-                "name": "A Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankA.png"
-              },
-              {
-                "name": "S Rank",
-                "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
-              }
-            ]
-          },
-          {
             "name": "X-PBC - público cautivo",
             "map_locations": [
               {
@@ -1567,7 +1681,7 @@
               }
             ],
             "access_rules": [
-              "41"
+              "67"
             ],
             "sections": [
               {
@@ -1583,7 +1697,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1613,7 +1730,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1643,7 +1763,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1673,7 +1796,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1703,7 +1829,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1733,7 +1862,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1763,7 +1895,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           },
@@ -1793,7 +1928,10 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
@@ -1801,9 +1939,6 @@
       },
       {
         "name": "Garden Room",
-        "access_rules": [
-          "54"
-        ],
         "children": [
           {
             "name": "X-0 - Helping Hands",
@@ -1815,7 +1950,8 @@
               }
             ],
             "access_rules": [
-              "48"
+              "end_goal_rank,54,48",
+              "end_goal_hh,$HasAllBossesUnlocked"
             ],
             "sections": [
               {
@@ -1831,7 +1967,55 @@
               {
                 "name": "S Rank",
                 "item_count": 1,
-                "chest_opened_img": "images/ranks/RankS.png"
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "X-1 - Art Exercise",
+            "access_rules": [
+              "end_goal_hh,53,49",
+              "end_goal_rank,54,49"
+            ],
+            "map_locations": [
+              {
+                "map": "Basement / Garden",
+                "x": 590,
+                "y": 600,
+                "restrict_visibility_rules": [
+                  "end_goal_rank"
+                ]
+              },
+              {
+                "map": "Basement / Garden",
+                "x": 870,
+                "y": 1480,
+                "restrict_visibility_rules": [
+                  "end_goal_hh"
+                ]
+              }
+            ],
+            "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
+                "name": "S Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankS.png",
+                "visibility_rules": [
+                  "perfect_rank"
+                ]
               }
             ]
           }
