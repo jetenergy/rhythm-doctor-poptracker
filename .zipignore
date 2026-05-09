@@ -4,3 +4,4 @@ definition/*
 
 .gitignore
 .luarc.json
+*.zip

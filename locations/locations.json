@@ -246,7 +246,7 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|4"
+              "51,$CheckBossRequirement|4"
             ],
             "sections": [
               {

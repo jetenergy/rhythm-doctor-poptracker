@@ -58,8 +58,8 @@ local onClear = function(data)
     for key, value in pairs(data) do
         print("RD: slot data: key: " .. key .. "; value: " .. tostring(value))
 
-        if key == 'end_goal' then
-            local goalSelector = Tracker:FindObjectForCode('end_goal')
+        if key == "end_goal" then
+            local goalSelector = Tracker:FindObjectForCode("end_goal")
             --@cast goalSelector LocationSection
             if goalSelector ~= nil then
                 -- 0 = Helping Hands, 1 = All B Rank, 2 = All A Rank, 3 = All S Rank
@@ -76,7 +76,13 @@ local onClear = function(data)
             end
         end
 
-        -- TODO: double check perfect_rank_locations -> perfect_rank when that's implemented
+        if key == "perfect_rank_locations" then
+            local reqObject = Tracker:FindObjectForCode("perfect_rank")
+            --@cast reqObject LocationSection
+            if reqObject ~= nil then
+                reqObject.Active = value == 1
+            end
+        end
     end
 
 end
