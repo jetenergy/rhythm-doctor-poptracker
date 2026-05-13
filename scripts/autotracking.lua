@@ -109,6 +109,7 @@ function GetChapterLevelInfo(chapter)
         if levelRankLocation ~= nil then
             if levelRankLocation.AccessibilityLevel == AccessibilityLevel.Cleared then
                 levelsCompleted = levelsCompleted + 1
+                levelsUnlocked = levelsUnlocked + 1
             end
             if levelRankLocation.AccessibilityLevel == AccessibilityLevel.Normal then
                 levelsUnlocked = levelsUnlocked + 1
