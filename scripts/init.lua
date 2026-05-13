@@ -1,5 +1,6 @@
 
 Tracker:AddItems("items/items.json")
+Tracker:AddItems("items/setting-items.json")
 
 Tracker:AddLocations("locations/locations.json")
 

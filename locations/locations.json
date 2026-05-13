@@ -217,7 +217,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|1"
+              "{$IsBossInLogic|1}",
+              "$IsBossUnlocked|1"
             ],
             "sections": [
               {
@@ -246,7 +247,8 @@
               }
             ],
             "access_rules": [
-              "51,$CheckBossRequirement|4"
+              "{51,$IsBossInLogic|4}",
+              "51,$IsBossUnlocked|4"
             ],
             "sections": [
               {
@@ -476,7 +478,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|3"
+              "{$IsBossInLogic|3}",
+              "$IsBossUnlocked|3"
             ],
             "sections": [
               {
@@ -505,7 +508,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|3"
+              "{$IsBossInLogic|3}",
+              "$IsBossUnlocked|3"
             ],
             "sections": [
               {
@@ -746,6 +750,16 @@
             ],
             "sections": [
               {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
+              {
                 "name": "S Rank",
                 "item_count": 1,
                 "chest_opened_img": "images/ranks/RankS.png",
@@ -769,6 +783,16 @@
               "20"
             ],
             "sections": [
+              {
+                "name": "B Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankB.png"
+              },
+              {
+                "name": "A Rank",
+                "item_count": 1,
+                "chest_opened_img": "images/ranks/RankA.png"
+              },
               {
                 "name": "S Rank",
                 "item_count": 1,
@@ -823,7 +847,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|2"
+              "{$IsBossInLogic|2}",
+              "$IsBossUnlocked|2"
             ],
             "sections": [
               {
@@ -1426,7 +1451,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|5"
+              "{$IsBossInLogic|5}",
+              "$IsBossUnlocked|5"
             ],
             "sections": [
               {
@@ -1534,7 +1560,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|6"
+              "{$IsBossInLogic|6}",
+              "$IsBossUnlocked|6"
             ],
             "sections": [
               {
@@ -1606,7 +1633,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|7"
+              "{$IsBossInLogic|7}",
+              "$IsBossUnlocked|7"
             ],
             "sections": [
               {
@@ -1640,7 +1668,8 @@
               }
             ],
             "access_rules": [
-              "$CheckBossRequirement|7"
+              "{$IsBossInLogic|7}",
+              "$IsBossUnlocked|7"
             ],
             "sections": [
               {
@@ -1951,6 +1980,7 @@
             ],
             "access_rules": [
               "end_goal_rank,54,48",
+              "{end_goal_hh,$HasAllBossesInLogic}",
               "end_goal_hh,$HasAllBossesUnlocked"
             ],
             "sections": [
